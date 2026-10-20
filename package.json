@@ -1,0 +1,11 @@
+
+{
+  "name": "cognevance-ci-cd-pipeline",
+  "version": "1.0.0",
+  "description": "CI/CD pipeline automation project for Cognevance internship",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
